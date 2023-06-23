@@ -1,0 +1,12 @@
+{
+	"name": "Node Codespace",
+	"customizations": {
+		"vscode": {
+			"extensions": ["rome.rome"],
+			"settings": {
+				"editor.formatOnSave": true
+			}
+		}
+	},
+	"dockerFile": "Dockerfile"
+}
